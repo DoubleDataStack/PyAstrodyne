@@ -1,0 +1,9 @@
+{
+    "generation_planet": true,
+    "n_body": 100,
+    "mass_planet": 1,
+    "radius_planet": 3,
+    "color_planet": [255,255,255],
+    "collision": false,
+    "center_body": true
+}
