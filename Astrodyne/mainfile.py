@@ -3,7 +3,7 @@ from starter import Start
 from pathlib import Path
 
 def read_config():
-    config_path = Path("astrodyn\Astrodyne\config.json")
+    config_path = Path("Astrodyne\config.json")
     with config_path.open("r") as config_file:
         config = json.load(config_file)
     return config
